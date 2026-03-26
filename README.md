@@ -1,4 +1,4 @@
-# Azure Backup and Recovery
+# Azure Cloud Backup
 
 ### Creating backup<br><br>
 ![Dashboard Screenshot](images/img1.png)
