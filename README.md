@@ -1,4 +1,4 @@
-# Azure Cloud Backup
+# Azure Backup Configuration & Recovery (Virtual Machine Lab)
 
 ### Creating backup<br><br>
 ![Dashboard Screenshot](images/img1.png)
