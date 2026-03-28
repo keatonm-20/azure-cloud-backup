@@ -1,5 +1,12 @@
 # Azure Backup Configuration & Recovery (Virtual Machine Lab)
 
+## 🚀 Skills Demonstrated (Overview)
+- Configuring Azure Backup for virtual machines
+- Scheduling and managing backup jobs
+- Testing backup and recovery procedures
+
+---
+
 ### Creating backup<br><br>
 ![Dashboard Screenshot](images/img1.png)
 ![Dashboard Screenshot](images/img2.png)
